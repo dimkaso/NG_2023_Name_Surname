@@ -1,1 +1,1 @@
-print(eval(input("Введите выражение: ")))
+print(eval(input("Enter an expression: ")))
